@@ -28,4 +28,3 @@
 <img src="https://raw.githubusercontent.com/aslnekrem/aslnekrem/output/snake.svg" alt="Snake animation" />
 
 ###
-![snake gif](https://github.com/aslnekrem/aslnekrem/blob/output/github-contribution-grid-snake.gif)
